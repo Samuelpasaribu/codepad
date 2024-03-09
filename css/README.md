@@ -1,3 +1,4 @@
 <ol>
 <li><a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/codepad/css/index.css">https://cdn.jsdelivr.net/gh/samuelpasaribu/codepad/css/index.css</a></li>
+  <li><a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/codepad/css/vanilla-layout.css">https://cdn.jsdelivr.net/gh/samuelpasaribu/codepad/css/vanilla-layout.css</a></li>
 </ol>
